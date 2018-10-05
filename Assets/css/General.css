@@ -1,0 +1,98 @@
+
+body{
+  margin: 0px;
+  padding: 0px;
+  font-size: 12px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.sub-header{
+  background-color: #0072bc;
+  padding-top:0px;
+  padding-bottom: 0px;
+}
+.sub-header_text{
+    font-size: .8rem;
+    display: inline-block;
+    padding: 9.6px 0;
+    padding: .6rem 0;
+}
+
+.sub-header_link{
+      display:inline-block;
+      margin-top: 11px;
+      margin-left: 15px;
+}
+.header{
+  margin-top: 0px;
+  padding: 0px;
+  padding-top: 22px;
+}
+
+.header-logo{
+    width: 150px;
+    height: 76.38px;
+}
+.stube{
+  margin-top: 40px;
+}
+hr{
+  margin-right: auto;
+  margin-left:auto;
+  border: 1px rgba(255,203,8) solid;
+  width: 10%;
+}
+
+.is-horizontal-center {
+  justify-content: center;
+}
+
+.back-color{
+  background-color: #f4f7f9;
+  padding-bottom: 70px;
+}
+.space{
+  margin-top: 15px;
+}
+
+.verticalLine {
+  border-left: thick solid #22c65b;
+}
+
+.dodo{
+  background-image: url(../icon/images/background-guillerm.jpeg);
+  padding-bottom: 35px;
+}
+
+
+.form{
+  margin-right: auto;
+  margin-left:auto;
+  background-color: white;
+  width: 85%;
+  height: 700px;
+}
+
+.left{
+  margin-left: 20px;
+}
+
+.up{
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.line{
+  margin-right: auto;
+  margin-left:auto;
+  border: 1px rgba(60,179,113) solid;
+  width: 10%;
+}
+
+.line2{
+  margin-right: auto;
+  margin-left:auto;
+  border: 1px rgba(30,144,255) solid;
+  width: 10%;
+
+}
